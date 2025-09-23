@@ -1,0 +1,1711 @@
+{
+  "unit1": {
+    "title": "Unit I - Fundamentals",
+    "description": "Basic concepts of pharmacognosy, classifications, and evaluation methods",
+    "entries": [
+      {
+        "term": "Pharmacognosy",
+        "definition": "The study of drugs obtained from natural sources, especially plants, animals, and minerals.",
+        "example": "Analysis of digitalis leaves for cardiac glycosides is studied in pharmacognosy."
+      },
+      {
+        "term": "Crude Drug",
+        "definition": "Natural substances used in the unprocessed form or after simple processing, primarily for medicinal purposes.",
+        "example": "Dried senna leaves."
+      },
+      {
+        "term": "Ayurveda",
+        "definition": "An ancient Indian system of medicine focused on balancing bodily systems through diet, herbal remedies, and yogic breathing.",
+        "example": "Use of tulsi leaves to boost immunity."
+      },
+      {
+        "term": "Siddha Medicine",
+        "definition": "Traditional Tamil system of medicine using herbs, minerals, and lifestyle practices for health.",
+        "example": "Use of aloe vera as a cooling agent."
+      },
+      {
+        "term": "Unani Medicine",
+        "definition": "A Greco-Arab system of medicine practiced in India, based on humoral theory.",
+        "example": "Use of ashwagandha for general wellness."
+      },
+      {
+        "term": "Morphological Classification",
+        "definition": "Grouping crude drugs according to plant part used (root, leaf, bark, etc.).",
+        "example": "Ginger classified as a rhizome drug."
+      },
+      {
+        "term": "Taxonomic Classification",
+        "definition": "Arrangement of crude drugs based on their botanical hierarchy (family, genus, species).",
+        "example": "Azadirachta indica (Neem) belongs to the family Meliaceae."
+      },
+      {
+        "term": "Therapeutic Classification",
+        "definition": "Categorization of drugs based on their medicinal action.",
+        "example": "Garlic as an antihypertensive."
+      },
+      {
+        "term": "Chemical Classification",
+        "definition": "Organization of drugs by their main chemical constituent.",
+        "example": "Opium as an alkaloid drug."
+      },
+      {
+        "term": "Alkaloid",
+        "definition": "Nitrogen-containing natural compounds, often with potent medicinal effects.",
+        "example": "Morphine from opium poppy."
+      },
+      {
+        "term": "Glycoside",
+        "definition": "Molecule where a sugar is bound to a non-sugar substance, often with medicinal value.",
+        "example": "Digoxin in foxglove."
+      },
+      {
+        "term": "Tannin",
+        "definition": "Astringent polyphenolic compound found in plants.",
+        "example": "Tannins in tea leaves."
+      },
+      {
+        "term": "Saponin",
+        "definition": "Plant glycoside with soap-like properties and medicinal uses.",
+        "example": "Saponins in licorice root."
+      },
+      {
+        "term": "Organoleptic Evaluation",
+        "definition": "Assessment of a substance by sensory features (taste, smell, look, touch).",
+        "example": "Clove's distinct aromatic smell."
+      },
+      {
+        "term": "Plant-Origin Drug",
+        "definition": "Drug derived from plant material.",
+        "example": "Ginger rhizome."
+      },
+      {
+        "term": "Animal-Origin Drug",
+        "definition": "Drug derived from animal source.",
+        "example": "Honey from bees."
+      },
+      {
+        "term": "Mineral-Origin Drug",
+        "definition": "Drug derived from a mineral or inorganic source.",
+        "example": "Kaolin (China clay) as an adsorbent."
+      },
+      {
+        "term": "Powdering",
+        "definition": "Reducing a crude drug to fine particles.",
+        "example": "Powdered dried amla."
+      },
+      {
+        "term": "Adulteration",
+        "definition": "Addition of inferior or contaminated substances to a drug.",
+        "example": "Chalk powder mixed with turmeric."
+      },
+      {
+        "term": "Pharmacognostic Evaluation",
+        "definition": "Study of physical, chemical, and biological traits for crude drug identification and quality.",
+        "example": "Microscopy to identify leaf structures."
+      },
+      {
+        "term": "Pharmacopoeia",
+        "definition": "Official publication listing recognized medicinal drugs with standards.",
+        "example": "Indian Pharmacopoeia."
+      },
+      {
+        "term": "Monograph",
+        "definition": "Detailed document describing drugs, their standards, and uses.",
+        "example": "A monograph on neem leaves."
+      },
+      {
+        "term": "Standardization",
+        "definition": "Process to ensure consistent quality and purity of drugs.",
+        "example": "Checking withanolide content in ashwagandha."
+      },
+      {
+        "term": "Therapeutic Efficacy",
+        "definition": "Ability of a drug to produce desired medical benefit.",
+        "example": "Efficacy of senna extract as a laxative."
+      },
+      {
+        "term": "Decoction",
+        "definition": "Extracting soluble plant contents by boiling in water.",
+        "example": "Neem bark decoction for fever."
+      },
+      {
+        "term": "Infusion",
+        "definition": "Steeping plant material in hot or cold water to extract active components.",
+        "example": "Chamomile flower infusion."
+      },
+      {
+        "term": "Maceration",
+        "definition": "Soaking plant parts in liquid to extract medicinal contents.",
+        "example": "Maceration of orange peel in alcohol."
+      },
+      {
+        "term": "Tincture",
+        "definition": "Alcoholic extract of plant or animal material.",
+        "example": "Tincture of ginger."
+      },
+      {
+        "term": "Poultice",
+        "definition": "Soft, moist mass of plant material applied to skin for healing.",
+        "example": "Mustard seed poultice."
+      },
+      {
+        "term": "Herbal Drug",
+        "definition": "Medicinal product made from plant or plant parts.",
+        "example": "Tulsi capsules."
+      },
+      {
+        "term": "Medicinal Plant",
+        "definition": "Plant used to treat, cure, or prevent disease.",
+        "example": "Aloe vera for burns."
+      },
+      {
+        "term": "Therapeutic Index",
+        "definition": "Ratio of toxic dose to effective dose of a drug, indicating safety.",
+        "example": "Testing safety of morphine."
+      },
+      {
+        "term": "Galenical",
+        "definition": "Traditional medicine prepared from natural extracts.",
+        "example": "Liquid extract of senna."
+      },
+      {
+        "term": "Drug Authentication",
+        "definition": "Verification of drug identity to prevent substitution/adulteration.",
+        "example": "Confirming genuine turmeric."
+      },
+      {
+        "term": "Plant Secondary Metabolite",
+        "definition": "Compounds produced by plants not required for growth but important medicinally.",
+        "example": "Alkaloids in periwinkle."
+      },
+      {
+        "term": "Pharmacological Action",
+        "definition": "Effect of a drug on a living body.",
+        "example": "Antipyretic effect of willow bark."
+      },
+      {
+        "term": "Ethnobotany",
+        "definition": "Study of how people use plants in their culture.",
+        "example": "Holy basil in daily rituals."
+      },
+      {
+        "term": "Phyto-pharmacology",
+        "definition": "Study of plant-derived chemicals and their effects on health.",
+        "example": "Studying sedation effects of valerian."
+      },
+      {
+        "term": "Herbal Supplement",
+        "definition": "Plant-based product added to diet for health benefits.",
+        "example": "Ginkgo biloba tablets."
+      },
+      {
+        "term": "Adulterant",
+        "definition": "Unwanted material mixed with drugs, lowering quality.",
+        "example": "Sawdust in powdered spices."
+      },
+      {
+        "term": "Pharmacovigilance",
+        "definition": "Detection and prevention of adverse drug effects.",
+        "example": "Reporting herbal supplement side effects."
+      },
+      {
+        "term": "Bioactive Compound",
+        "definition": "Chemical that affects living organisms beneficially.",
+        "example": "Curcumin from turmeric."
+      },
+      {
+        "term": "Primary Metabolite",
+        "definition": "Essential compound for plant growth and survival.",
+        "example": "Glucose."
+      },
+      {
+        "term": "Dosage Form",
+        "definition": "Physical form in which a drug is produced and taken.",
+        "example": "Herbal syrups."
+      },
+      {
+        "term": "Herbarium",
+        "definition": "Collection of dried plant specimens for reference and study.",
+        "example": "A herbarium of medicinal plants in a university."
+      },
+      {
+        "term": "Extractive Value",
+        "definition": "Measure of active principle extracted from crude drug under specific conditions.",
+        "example": "Alcohol-soluble extractive value of ashwagandha root."
+      },
+      {
+        "term": "Foreign Matter",
+        "definition": "Undesired material present in a crude drug.",
+        "example": "Presence of sand in herbal powders."
+      },
+      {
+        "term": "Ash Value",
+        "definition": "Amount of residue left after burning crude drug, indicating purity.",
+        "example": "High ash in adulterated tea."
+      },
+      {
+        "term": "Purity",
+        "definition": "Degree to which a crude drug is free from contaminants or adulterants.",
+        "example": "Pure saffron threads."
+      },
+      {
+        "term": "Volatile Oil",
+        "definition": "Aromatic plant oil that evaporates easily and provides fragrance/flavor.",
+        "example": "Peppermint oil."
+      },
+      {
+        "term": "Demulcent",
+        "definition": "Agent that soothes inflamed mucous membranes.",
+        "example": "Slippery elm bark."
+      },
+      {
+        "term": "Laxative",
+        "definition": "Substance that promotes bowel movements.",
+        "example": "Psyllium husk."
+      },
+      {
+        "term": "Galactagogue",
+        "definition": "Substance that enhances milk production.",
+        "example": "Fenugreek seeds."
+      },
+      {
+        "term": "Expectorant",
+        "definition": "Substance that helps expel mucus from respiratory tract.",
+        "example": "Liquorice root tea."
+      },
+      {
+        "term": "Antipyretic",
+        "definition": "Substance that reduces fever.",
+        "example": "Willow bark tea."
+      },
+      {
+        "term": "Astringent",
+        "definition": "Substance that tightens tissues, reducing discharge and bleeding.",
+        "example": "Witch hazel extract."
+      },
+      {
+        "term": "Carminative",
+        "definition": "Substance that relieves gas from stomach/intestines.",
+        "example": "Fennel seeds."
+      },
+      {
+        "term": "Immunomodulator",
+        "definition": "Agent that modifies and regulates immune system activity.",
+        "example": "Tinospora (Giloy)."
+      },
+      {
+        "term": "Apitherapy",
+        "definition": "Use of bee products in medicine.",
+        "example": "Applying honey to wounds."
+      },
+      {
+        "term": "Materia Medica",
+        "definition": "The body of collected knowledge about the therapeutic properties of any substance used for healing.",
+        "example": "Reference to ancient texts on medicinal herbs."
+      }
+    ]
+  },
+  "unit2": {
+    "title": "Unit II - Root & Rhizome Drugs",
+    "description": "Root drugs, rhizomes, woods, and bark with their medicinal properties",
+    "entries": [
+      {
+        "term": "Rauwolfia serpentina",
+        "family": "Apocynaceae",
+        "usefulPart": "Root",
+        "definition": "A medicinal plant used as antihypertensive and tranquilizer.",
+        "example": "Roots are used to treat high blood pressure."
+      },
+      {
+        "term": "Asparagus racemosus",
+        "family": "Asparagaceae",
+        "usefulPart": "Root",
+        "definition": "Known as Shatavari, used as a tonic and galactagogue.",
+        "example": "Used to promote lactation in nursing mothers."
+      },
+      {
+        "term": "Vetiveria zizanioides",
+        "family": "Poaceae",
+        "usefulPart": "Root",
+        "definition": "Vetiver root used as a coolant, diuretic, and in perfumes.",
+        "example": "Added in cooling herbal drinks during summer."
+      },
+      {
+        "term": "Zingiber officinale",
+        "family": "Zingiberaceae",
+        "usefulPart": "Rhizome",
+        "definition": "Ginger rhizome used as carminative and antiemetic.",
+        "example": "Used in ginger tea for nausea relief."
+      },
+      {
+        "term": "Curcuma longa",
+        "family": "Zingiberaceae",
+        "usefulPart": "Rhizome",
+        "definition": "Turmeric rhizome, potent anti-inflammatory and antioxidant.",
+        "example": "Topical application on wounds."
+      },
+      {
+        "term": "Acorus calamus",
+        "family": "Acoraceae",
+        "usefulPart": "Rhizome",
+        "definition": "Calamus rhizome used for digestive and nervous system disorders.",
+        "example": "Used as a stomachic in herbal syrups."
+      },
+      {
+        "term": "Santalum album",
+        "family": "Santalaceae",
+        "usefulPart": "Heartwood",
+        "definition": "Sandalwood used for its cooling and antiseptic properties.",
+        "example": "Paste used for skin rashes and acne."
+      },
+      {
+        "term": "Azadirachta indica",
+        "family": "Meliaceae",
+        "usefulPart": "Wood, Bark",
+        "definition": "Neem used for its antibacterial properties and oral health.",
+        "example": "Neem twigs used for cleaning teeth."
+      },
+      {
+        "term": "Pterocarpus santalinus",
+        "family": "Fabaceae",
+        "usefulPart": "Heartwood",
+        "definition": "Red sandalwood used for skin diseases and coloring cosmetics.",
+        "example": "Face packs for cooling and skin lightening."
+      },
+      {
+        "term": "Terminalia arjuna",
+        "family": "Combretaceae",
+        "usefulPart": "Bark",
+        "definition": "Arjuna bark used as a potent heart tonic.",
+        "example": "Bark decoction for cardiac support."
+      },
+      {
+        "term": "Saraca asoca",
+        "family": "Fabaceae",
+        "usefulPart": "Bark",
+        "definition": "Ashoka bark used in gynecological disorders.",
+        "example": "Ashoka bark extract for menstrual health."
+      },
+      {
+        "term": "Cinnamomum zeylanicum",
+        "family": "Lauraceae",
+        "usefulPart": "Bark",
+        "definition": "Cinnamon bark used as a flavoring and digestive aid.",
+        "example": "Added to sweets for taste and digestive support."
+      },
+      {
+        "term": "Root Drugs",
+        "definition": "Drugs derived from the roots of plants, usually containing potent bioactive compounds.",
+        "example": "Rauwolfia serpentina root for hypertension."
+      },
+      {
+        "term": "Rhizome Drugs",
+        "definition": "Medicinal substances obtained from plant rhizomes (underground stems).",
+        "example": "Zingiber officinale (ginger)."
+      },
+      {
+        "term": "Wood Drugs",
+        "definition": "Drugs in which the main therapeutic agents are found in the heartwood.",
+        "example": "Santalum album (sandalwood)."
+      },
+      {
+        "term": "Bark Drugs",
+        "definition": "Medicines obtained from the bark of trees or shrubs, often rich in tannins and alkaloids.",
+        "example": "Terminalia arjuna bark."
+      },
+      {
+        "term": "Galactagogue",
+        "definition": "Substance that increases breast milk production.",
+        "example": "Asparagus racemosus (Shatavari) root."
+      },
+      {
+        "term": "Antihypertensive",
+        "definition": "Drug lowering high blood pressure.",
+        "example": "Rauwolfia serpentina."
+      },
+      {
+        "term": "Carminative",
+        "definition": "An agent that relieves flatulence.",
+        "example": "Zingiber officinale (ginger)."
+      },
+      {
+        "term": "Anti-inflammatory",
+        "definition": "Substance reducing inflammation.",
+        "example": "Curcuma longa (turmeric)."
+      },
+      {
+        "term": "Cooling Agent",
+        "definition": "Substance providing a cooling effect.",
+        "example": "Vetiveria zizanioides root drink."
+      },
+      {
+        "term": "Tranquilizer",
+        "definition": "Drug used to reduce tension or anxiety.",
+        "example": "Reserpine from Rauwolfia root."
+      },
+      {
+        "term": "Antiseptic",
+        "definition": "Prevents the growth of disease-causing organisms.",
+        "example": "Sandalwood paste."
+      },
+      {
+        "term": "Expectorant",
+        "definition": "A substance that helps expel mucus from the airways.",
+        "example": "Calamus rhizome."
+      },
+      {
+        "term": "Digestive Tonic",
+        "definition": "Substance aiding digestion.",
+        "example": "Acorus calamus."
+      },
+      {
+        "term": "Cardiotonic",
+        "definition": "Drug that improves heart function.",
+        "example": "Terminalia arjuna bark."
+      },
+      {
+        "term": "Gynecological Drug",
+        "definition": "Medication used for female reproductive health.",
+        "example": "Ashoka bark."
+      },
+      {
+        "term": "Spice/Flavoring Drug",
+        "definition": "Herb used for taste and sometimes with medicinal value.",
+        "example": "Cinnamon bark."
+      },
+      {
+        "term": "Menstrual Regulator",
+        "definition": "Substance that regulates menstrual cycles.",
+        "example": "Saraca asoca."
+      },
+      {
+        "term": "Perfume Ingredient",
+        "definition": "Plant part used in fragrance production.",
+        "example": "Vetiver root oil."
+      },
+      {
+        "term": "Antioxidant",
+        "definition": "Substance inhibiting oxidation and combating free radicals.",
+        "example": "Turmeric rhizome."
+      },
+      {
+        "term": "Adaptogen",
+        "definition": "Natural substance helping the body adapt to stress.",
+        "example": "Shatavari root."
+      },
+      {
+        "term": "Skin Soothing Agent",
+        "definition": "Plant-based substance used to soothe skin.",
+        "example": "Sandalwood."
+      },
+      {
+        "term": "Antibacterial Plant",
+        "definition": "Plant with antibacterial activity.",
+        "example": "Neem bark."
+      },
+      {
+        "term": "Blood Pressure Regulator",
+        "definition": "Drug that stabilizes blood pressure.",
+        "example": "Rauwolfia root."
+      },
+      {
+        "term": "Menstrual Disorder Remedy",
+        "definition": "Treats menstrual cramps and irregularity.",
+        "example": "Ashoka bark."
+      },
+      {
+        "term": "Flavor Enhancer",
+        "definition": "Ingredient added to improve taste.",
+        "example": "Cinnamon."
+      },
+      {
+        "term": "Herbal Toothbrush",
+        "definition": "Plant part used for cleaning teeth.",
+        "example": "Neem twigs."
+      },
+      {
+        "term": "Natural Dye",
+        "definition": "Colorant from plant material.",
+        "example": "Red sandalwood."
+      },
+      {
+        "term": "Skin Lightening Agent",
+        "definition": "Substance that helps lighten skin.",
+        "example": "Pterocarpus santalinus."
+      },
+      {
+        "term": "Oral Hygiene Drug",
+        "definition": "Used to clean or treat the mouth.",
+        "example": "Neem bark."
+      },
+      {
+        "term": "Astringent",
+        "definition": "Causes tightening of tissues; reduces secretions.",
+        "example": "Sandalwood in facial masks."
+      },
+      {
+        "term": "Coolant",
+        "definition": "Reduces body heat.",
+        "example": "Vetiver root beverage."
+      },
+      {
+        "term": "Diuretic",
+        "definition": "Increases urine flow.",
+        "example": "Vetiver root."
+      },
+      {
+        "term": "Antiulcer",
+        "definition": "Prevents or heals ulcers.",
+        "example": "Calamus rhizome."
+      },
+      {
+        "term": "Wound Healing Agent",
+        "definition": "Promotes fast healing of wounds.",
+        "example": "Turmeric paste."
+      },
+      {
+        "term": "Antiemetic",
+        "definition": "Prevents vomiting.",
+        "example": "Ginger tea."
+      },
+      {
+        "term": "Respiratory Tract Remedy",
+        "definition": "Used in treating cough/cold.",
+        "example": "Calamus rhizome."
+      },
+      {
+        "term": "Heart Health Herbal",
+        "definition": "Supports cardiovascular system.",
+        "example": "Arjuna bark."
+      },
+      {
+        "term": "Menstrual Health Tonic",
+        "definition": "Used for general menstrual well-being.",
+        "example": "Ashoka bark syrup."
+      },
+      {
+        "term": "Natural Preservative",
+        "definition": "Inhibits microbial growth in foods.",
+        "example": "Cinnamon bark."
+      },
+      {
+        "term": "Herbal Face Pack Ingredient",
+        "definition": "Used for facial skin care.",
+        "example": "Sandalwood."
+      },
+      {
+        "term": "Traditional Cooling Drink Base",
+        "definition": "Ingredient for preparation of cooling beverages.",
+        "example": "Vetiver root."
+      },
+      {
+        "term": "Bioactive Compound Source",
+        "definition": "Plant part with beneficial secondary compounds.",
+        "example": "Turmeric rhizome."
+      },
+      {
+        "term": "Tonic",
+        "definition": "Promotes overall wellness and vigor.",
+        "example": "Shatavari root tonic."
+      },
+      {
+        "term": "Ayurvedic Drug",
+        "definition": "Used in Ayurveda for health and healing.",
+        "example": "Arjuna bark in cardiac ayurvedic medicines."
+      },
+      {
+        "term": "Hair Care Ingredient",
+        "definition": "Used in herbal oils and shampoos.",
+        "example": "Sandalwood oil."
+      },
+      {
+        "term": "Gastrointestinal Remedy",
+        "definition": "Treats stomach and digestive problems.",
+        "example": "Calamus rhizome."
+      },
+      {
+        "term": "Female Reproductive Health Drug",
+        "definition": "Addresses reproductive system disorders in women.",
+        "example": "Shatavari."
+      },
+      {
+        "term": "Traditional Medicine Root",
+        "definition": "Root used in folk or traditional healing practices.",
+        "example": "Vetiveria zizanioides root baths."
+      }
+    ]
+  },
+  "unit3": {
+    "title": "Unit III - Aerial Parts",
+    "description": "Leaves, flowers, fruits, seeds, and entire plants with medicinal uses",
+    "entries": [
+      {
+        "term": "Aloe vera",
+        "family": "Asphodelaceae",
+        "usefulPart": "Leaves",
+        "definition": "Used for treating burns, wounds, and skin infections.",
+        "example": "Aloe vera gel applied topically for sunburn relief."
+      },
+      {
+        "term": "Justicia adhatoda",
+        "family": "Acanthaceae",
+        "usefulPart": "Leaves",
+        "definition": "Used as an expectorant and for respiratory ailments.",
+        "example": "Leaves boiled to make a cough syrup."
+      },
+      {
+        "term": "Ocimum tenuiflorum",
+        "family": "Lamiaceae",
+        "usefulPart": "Leaves",
+        "definition": "Used as anti-stress, antibacterial and immune booster.",
+        "example": "Tulsi tea consumed for cold relief."
+      },
+      {
+        "term": "Syzygium aromaticum",
+        "family": "Myrtaceae",
+        "usefulPart": "Flowers (cloves)",
+        "definition": "Used as antiseptic, analgesic, and anti-inflammatory.",
+        "example": "Clove oil applied for toothache."
+      },
+      {
+        "term": "Crocus sativus",
+        "family": "Iridaceae",
+        "usefulPart": "Flowers (saffron)",
+        "definition": "Used as an antioxidant and mood enhancer.",
+        "example": "Saffron used as a spice and in medicines for depression."
+      },
+      {
+        "term": "Hibiscus rosa-sinensis",
+        "family": "Malvaceae",
+        "usefulPart": "Flowers",
+        "definition": "Used for hair growth and as an astringent.",
+        "example": "Hibiscus oil used for hair care."
+      },
+      {
+        "term": "Coriandrum sativum",
+        "family": "Apiaceae",
+        "usefulPart": "Fruits (seeds)",
+        "definition": "Used as digestive aid and carminative.",
+        "example": "Coriander seeds used in cooking and digestion."
+      },
+      {
+        "term": "Phyllanthus emblica",
+        "family": "Phyllanthaceae",
+        "usefulPart": "Fruits",
+        "definition": "Used as a rich vitamin C source and antioxidant.",
+        "example": "Amla fruit consumed for immunity improvement."
+      },
+      {
+        "term": "Piper nigrum",
+        "family": "Piperaceae",
+        "usefulPart": "Fruits (black pepper)",
+        "definition": "Used as stimulant, carminative and antibacterial.",
+        "example": "Black pepper used in spice blends and digestion."
+      },
+      {
+        "term": "Elettaria cardamomum",
+        "family": "Zingiberaceae",
+        "usefulPart": "Seeds",
+        "definition": "Used as carminative and digestive stimulant.",
+        "example": "Cardamom seeds used in teas and digestive preparations."
+      },
+      {
+        "term": "Trigonella foenum-graecum",
+        "family": "Fabaceae",
+        "usefulPart": "Seeds",
+        "definition": "Used as galactagogue and digestive aid.",
+        "example": "Fenugreek seeds consumed by lactating mothers."
+      },
+      {
+        "term": "Terminalia chebula",
+        "family": "Combretaceae",
+        "usefulPart": "Seeds/Fruits",
+        "definition": "Used as laxative and digestive tonic.",
+        "example": "Haritaki fruit used in Ayurvedic detox."
+      },
+      {
+        "term": "Phyllanthus amarus",
+        "family": "Phyllanthaceae",
+        "usefulPart": "Entire plant",
+        "definition": "Used for liver protection and antiviral purposes.",
+        "example": "Juice used in treating jaundice."
+      },
+      {
+        "term": "Bacopa monnieri",
+        "family": "Plantaginaceae",
+        "usefulPart": "Entire plant",
+        "definition": "Used to enhance memory and cognitive function.",
+        "example": "Brahmi extract used in brain supplements."
+      },
+      {
+        "term": "Catharanthus roseus",
+        "family": "Apocynaceae",
+        "usefulPart": "Entire plant",
+        "definition": "Used for diabetes and cancer treatment.",
+        "example": "Vincristine from plant used in chemotherapy."
+      }
+    ]
+  },
+  "unit4": {
+    "title": "Unit IV - Poisonous Plants",
+    "description": "Plant poisons, toxic effects, and treatment methods",
+    "entries": [
+      {
+        "term": "Alkaloid Poisons",
+        "definition": "Nitrogenous organic compounds toxic to humans.",
+        "example": "Atropine from Atropa belladonna."
+      },
+      {
+        "term": "Glycoside Poisons",
+        "definition": "Natural glycoside products with toxic aglycone part.",
+        "example": "Digitalis glycosides in Foxglove."
+      },
+      {
+        "term": "Oxalate Poisoning",
+        "definition": "Caused by calcium oxalate crystals.",
+        "example": "Dieffenbachia (dumb cane)."
+      },
+      {
+        "term": "Cyanogenic Glycoside Poisoning",
+        "definition": "Cyanide release after hydrolysis.",
+        "example": "Cassava (Manihot)."
+      },
+      {
+        "term": "Saponin Poisoning",
+        "definition": "Hemolytic activity on RBCs.",
+        "example": "Soapwort plant."
+      },
+      {
+        "term": "Nicotine Poisoning",
+        "definition": "Toxic alkaloid affecting CNS.",
+        "example": "Tobacco plant."
+      },
+      {
+        "term": "Strychnine Poisoning",
+        "definition": "Convulsions due to strychnine alkaloid.",
+        "example": "Strychnos nux-vomica."
+      },
+      {
+        "term": "Ricin Poisoning",
+        "definition": "Highly toxic protein ricin.",
+        "example": "Castor bean seeds."
+      },
+      {
+        "term": "Aconitine Poisoning",
+        "definition": "Potent nerve poison from aconitine alkaloid.",
+        "example": "Aconitum napellus."
+      },
+      {
+        "term": "Oleandrin Poisoning",
+        "definition": "Cardiotoxic glycosides present.",
+        "example": "Nerium oleander."
+      },
+      {
+        "term": "Colchicine Poisoning",
+        "definition": "GIT irritation and organ failure.",
+        "example": "Autumn Crocus."
+      },
+      {
+        "term": "Abrin Poisoning",
+        "definition": "Toxic protein abrin.",
+        "example": "Abrus precatorius seeds."
+      },
+      {
+        "term": "Ergotism",
+        "definition": "Vasoconstriction by ergot alkaloids.",
+        "example": "Claviceps purpurea."
+      },
+      {
+        "term": "Muscarine Poisoning",
+        "definition": "CNS effects by muscarine alkaloid.",
+        "example": "Amanita muscaria."
+      },
+      {
+        "term": "Hyoscine Poisoning",
+        "definition": "Caused by scopolamine alkaloid.",
+        "example": "Datura stramonium."
+      },
+      {
+        "term": "Tannin Excess",
+        "definition": "Can irritate stomach mucosa.",
+        "example": "Oak bark tannins."
+      },
+      {
+        "term": "Anthraquinone Poisoning",
+        "definition": "Overdose causing diarrhea.",
+        "example": "Aloe latex."
+      },
+      {
+        "term": "Photosensitization",
+        "definition": "Sensitivity to sunlight by toxins.",
+        "example": "Hypericum perforatum."
+      },
+      {
+        "term": "Morphine Toxicity",
+        "definition": "CNS depression with overdose.",
+        "example": "Poppy plant."
+      },
+      {
+        "term": "Caffeine Poisoning",
+        "definition": "CNS overstimulation.",
+        "example": "Coffee (Coffea arabica)."
+      },
+      {
+        "term": "Capsaicin Toxicity",
+        "definition": "Burning sensation in excess.",
+        "example": "Red chili pepper."
+      },
+      {
+        "term": "Curcin Poisoning",
+        "definition": "Toxic albumin.",
+        "example": "Jatropha seeds."
+      },
+      {
+        "term": "Phorbol Ester Poisoning",
+        "definition": "Severe dermatitis.",
+        "example": "Euphorbia species."
+      },
+      {
+        "term": "Sennoside Overuse",
+        "definition": "Cramping and diarrhea.",
+        "example": "Senna leaves."
+      },
+      {
+        "term": "Theobromine Poisoning",
+        "definition": "Toxic to pets like dogs.",
+        "example": "Cocoa plant."
+      },
+      {
+        "term": "Neurotoxic Action",
+        "definition": "Poisons damaging nerve cells.",
+        "example": "Atropine."
+      },
+      {
+        "term": "Cardiotoxic Action",
+        "definition": "Toxins interfering with heart function.",
+        "example": "Digitalis glycosides."
+      },
+      {
+        "term": "Hepatotoxic Action",
+        "definition": "Damage to liver cells.",
+        "example": "Pyrrolizidine alkaloids from Senecio."
+      },
+      {
+        "term": "Nephrotoxicity",
+        "definition": "Kidney injury caused by poisons.",
+        "example": "Aristolochic acid."
+      },
+      {
+        "term": "Dermatotoxic Action",
+        "definition": "Skin blisters or irritation.",
+        "example": "Poison ivy."
+      },
+      {
+        "term": "Hallucinogenic Action",
+        "definition": "Mind-altering toxins.",
+        "example": "Datura alkaloids."
+      },
+      {
+        "term": "Paralytic Action",
+        "definition": "Nerve block causing paralysis.",
+        "example": "Coniine from Hemlock."
+      },
+      {
+        "term": "Cytotoxic Action",
+        "definition": "Cellular death caused.",
+        "example": "Ricin from Ricinus communis."
+      },
+      {
+        "term": "Mutagenic Action",
+        "definition": "DNA mutations induced.",
+        "example": "Aflatoxin from Aspergillus."
+      },
+      {
+        "term": "Carcinogenic Action",
+        "definition": "Cancer-causing poisons.",
+        "example": "Betel nut alkaloids."
+      },
+      {
+        "term": "Hemotoxic Action",
+        "definition": "Destroys red blood cells.",
+        "example": "Abrin toxin."
+      },
+      {
+        "term": "Respiratory Depression",
+        "definition": "Failure of breathing.",
+        "example": "Opium alkaloids."
+      },
+      {
+        "term": "Gastrotoxic Action",
+        "definition": "Severe vomiting and diarrhea.",
+        "example": "Oleander ingestion."
+      },
+      {
+        "term": "Convulsant Action",
+        "definition": "Induces seizures.",
+        "example": "Strychnine."
+      },
+      {
+        "term": "Teratogenic Action",
+        "definition": "Causes fetal malformations.",
+        "example": "Alkaloids of Lupinus."
+      },
+      {
+        "term": "Abortifacient Action",
+        "definition": "Induces abortion.",
+        "example": "Calotropis latex."
+      },
+      {
+        "term": "Myotoxic Action",
+        "definition": "Damage to muscle cells.",
+        "example": "Aconitine."
+      },
+      {
+        "term": "Vasoconstrictor Action",
+        "definition": "Narrowing of blood vessels.",
+        "example": "Ergot alkaloids."
+      },
+      {
+        "term": "Vasodilator Action",
+        "definition": "Expansion of blood vessels.",
+        "example": "Nicotine overdose."
+      },
+      {
+        "term": "Irritant Action",
+        "definition": "Local inflammation from plant sap.",
+        "example": "Euphorbia."
+      },
+      {
+        "term": "Anesthetic Action",
+        "definition": "Paralyzing poison effect.",
+        "example": "Cocaine from coca leaves."
+      },
+      {
+        "term": "Photosensitizer Effect",
+        "definition": "Skin lesions in sunlight.",
+        "example": "St. John's Wort."
+      },
+      {
+        "term": "Diuretic Poisoning",
+        "definition": "Electrolyte imbalance by toxins.",
+        "example": "Squill."
+      },
+      {
+        "term": "Allergenic Action",
+        "definition": "Hypersensitivity caused.",
+        "example": "Parthenium weed."
+      },
+      {
+        "term": "Endocrine Disruptor Action",
+        "definition": "Hormone imbalance.",
+        "example": "Isoflavones in clover."
+      },
+      {
+        "term": "Gastric Lavage",
+        "definition": "Washing stomach to remove poison.",
+        "example": "Datura poisoning."
+      },
+      {
+        "term": "Activated Charcoal Therapy",
+        "definition": "Adsorption of toxin in gut.",
+        "example": "Opium poisoning."
+      },
+      {
+        "term": "Emesis Therapy",
+        "definition": "Vomiting induction.",
+        "example": "Early food poisoning cases."
+      },
+      {
+        "term": "Specific Antidotes",
+        "definition": "Neutralize toxic compounds.",
+        "example": "Atropine for organophosphates."
+      },
+      {
+        "term": "Supportive Treatment",
+        "definition": "Airway, oxygen, IV fluids.",
+        "example": "Calotropis poisoning care."
+      },
+      {
+        "term": "Cathartics",
+        "definition": "Laxatives used to expel poisons.",
+        "example": "Castor oil."
+      },
+      {
+        "term": "Forced Diuresis",
+        "definition": "Increased urination to clear toxins.",
+        "example": "Barbiturate overdose care."
+      },
+      {
+        "term": "Hemodialysis",
+        "definition": "Blood purification for poisons.",
+        "example": "Mushroom toxin removal."
+      },
+      {
+        "term": "Oxygen Therapy",
+        "definition": "Aid in respiratory poison cases.",
+        "example": "Carbon monoxide poisoning."
+      },
+      {
+        "term": "Anticonvulsants",
+        "definition": "Drugs to stop seizures.",
+        "example": "Strychnine poisoning management."
+      },
+      {
+        "term": "Pain Relievers",
+        "definition": "Symptom-based care.",
+        "example": "Mushroom-induced pain relief."
+      },
+      {
+        "term": "Steroid Therapy",
+        "definition": "For allergic poisoning.",
+        "example": "Poison ivy rashes."
+      },
+      {
+        "term": "Intravenous Fluids",
+        "definition": "Restore body fluids.",
+        "example": "Ricin ingestion case."
+      },
+      {
+        "term": "Stomach Pumping",
+        "definition": "Mechanical gastric cleaning.",
+        "example": "Alcohol poisoning."
+      },
+      {
+        "term": "Neutralizing Agents",
+        "definition": "Chemical antidotes.",
+        "example": "Sodium bicarbonate in acid poisoning."
+      },
+      {
+        "term": "Chelating Agents",
+        "definition": "Bind toxic metals.",
+        "example": "EDTA in heavy metal toxicity."
+      },
+      {
+        "term": "Antihistamines",
+        "definition": "Reduce allergic plant reactions.",
+        "example": "Nettles exposure."
+      },
+      {
+        "term": "Skin Ointments",
+        "definition": "Used for topical irritants.",
+        "example": "Calamine lotion for poison ivy."
+      },
+      {
+        "term": "Sedation Therapy",
+        "definition": "To calm hallucinations.",
+        "example": "Datura intoxication."
+      },
+      {
+        "term": "Artificial Respiration",
+        "definition": "Emergency aid.",
+        "example": "Opioid overdose with coma."
+      },
+      {
+        "term": "Deadly Nightshade (Atropa belladonna)",
+        "definition": "Contains toxic atropine alkaloid.",
+        "example": "Causes hallucinations and respiratory depression."
+      },
+      {
+        "term": "Hemlock (Conium maculatum)",
+        "definition": "Coniine alkaloid causing paralysis.",
+        "example": "Used historically as a method of execution."
+      },
+      {
+        "term": "Foxglove (Digitalis purpurea)",
+        "definition": "Cardiac glycosides toxic to heart.",
+        "example": "Can cause irregular heartbeat and death."
+      },
+      {
+        "term": "Calotropis (Calotropis procera)",
+        "definition": "Latex highly irritant.",
+        "example": "Causes severe skin burns and blindness if contacted with eyes."
+      },
+      {
+        "term": "Castor bean (Ricinus communis)",
+        "definition": "Seed protein ricin is lethal.",
+        "example": "Few beans can be fatal to humans."
+      },
+      {
+        "term": "Abrus (Abrus precatorius)",
+        "definition": "Seeds contain abrin toxin.",
+        "example": "Used in jewelry but extremely poisonous if ingested."
+      },
+      {
+        "term": "Oleander (Nerium oleander)",
+        "definition": "Cardiac glycoside poisoning.",
+        "example": "All parts are toxic, affecting heart rhythm."
+      },
+      {
+        "term": "Datura (Datura stramonium)",
+        "definition": "Tropane alkaloids toxic to CNS.",
+        "example": "Causes delirium, hallucinations, and coma."
+      },
+      {
+        "term": "Aconite (Aconitum sp.)",
+        "definition": "Aconitine alkaloid fatal nerve poison.",
+        "example": "Used historically as arrow poison."
+      },
+      {
+        "term": "Rhubarb (Rheum species)",
+        "definition": "Excess oxalate crystals.",
+        "example": "Leaves contain high oxalic acid, can cause kidney stones."
+      },
+      {
+        "term": "Senna (Cassia angustifolia)",
+        "definition": "Overuse causes diarrhea.",
+        "example": "Chronic use can lead to dependency and bowel damage."
+      },
+      {
+        "term": "Euphorbia (Euphorbia species)",
+        "definition": "Latex causes skin burns.",
+        "example": "Milky sap is highly caustic and toxic."
+      },
+      {
+        "term": "Parthenium weed",
+        "definition": "Allergic contact dermatitis.",
+        "example": "Causes severe skin rash and respiratory problems."
+      },
+      {
+        "term": "Mushrooms (Amanita phalloides)",
+        "definition": "Deadly amatoxin poisoning.",
+        "example": "Death cap mushroom causes liver failure."
+      },
+      {
+        "term": "Claviceps (Ergot fungus)",
+        "definition": "Vasoconstrictor alkaloids toxic.",
+        "example": "Ergotism causes gangrene and hallucinations."
+      },
+      {
+        "term": "Nux vomica (Strychnos)",
+        "definition": "Strychnine alkaloid causing convulsions.",
+        "example": "Seeds used as rat poison, causes severe muscle spasms."
+      },
+      {
+        "term": "Colchicum autumnale",
+        "definition": "Colchicine alkaloid toxic.",
+        "example": "Autumn crocus bulbs cause multi-organ failure."
+      },
+      {
+        "term": "Aristolochia species",
+        "definition": "Nephrotoxic aristolochic acid.",
+        "example": "Causes kidney failure and cancer."
+      },
+      {
+        "term": "Jatropha curcas",
+        "definition": "Seeds contain toxic curcin.",
+        "example": "Seeds cause severe gastrointestinal distress."
+      },
+      {
+        "term": "Senecio species",
+        "definition": "Pyrrolizidine alkaloid hepatotoxic.",
+        "example": "Ragwort causes liver cirrhosis in livestock."
+      }
+    ]
+  },
+  "unit5": {
+    "title": "Unit V - Herbal Preparations",
+    "description": "Formulations and remedies for common diseases",
+    "entries": [
+      {
+        "term": "Bath Powder",
+        "definition": "Herbal cleansing mixture for body care.",
+        "example": "Green gram powder with turmeric."
+      },
+      {
+        "term": "Herbal Tooth Powder",
+        "definition": "Dental health powder from herbs.",
+        "example": "Neem + clove tooth powder."
+      },
+      {
+        "term": "Herbal Shampoo",
+        "definition": "Natural hair cleanser made from plants.",
+        "example": "Shikakai + reetha + amla shampoo."
+      },
+      {
+        "term": "Rose Water",
+        "definition": "Distilled extract of rose petals used as toner.",
+        "example": "Rosa damascena distillate."
+      },
+      {
+        "term": "Herbal Face Wash",
+        "definition": "Plant-based skin cleanser.",
+        "example": "Aloe vera face wash."
+      },
+      {
+        "term": "Herbal Syrup",
+        "definition": "Sweet herbal extraction in liquid form.",
+        "example": "Tulsi cough syrup."
+      },
+      {
+        "term": "Churna",
+        "definition": "Fine powdered herbal preparation.",
+        "example": "Triphala churna."
+      },
+      {
+        "term": "Decoction (Kashaya)",
+        "definition": "Boiling herbs in water for medicine.",
+        "example": "Arjuna bark decoction."
+      },
+      {
+        "term": "Infusion",
+        "definition": "Steeping herbs in hot water.",
+        "example": "Tulsi infusion/tea."
+      },
+      {
+        "term": "Arishta",
+        "definition": "Fermented herbal preparation.",
+        "example": "Ashwagandharishta."
+      },
+      {
+        "term": "Asava",
+        "definition": "Herbal liquid produced by fermentation.",
+        "example": "Drakshasava."
+      },
+      {
+        "term": "Lehya",
+        "definition": "Semi-solid herbal preparation.",
+        "example": "Chyawanprash."
+      },
+      {
+        "term": "Ghrita (medicated ghee)",
+        "definition": "Clarified butter infused with herbs.",
+        "example": "Brahmi ghrita."
+      },
+      {
+        "term": "Tailam (herbal oil)",
+        "definition": "Extract of herbs in oil for therapy.",
+        "example": "Dhanwantaram tailam."
+      },
+      {
+        "term": "Pastes (Lepa)",
+        "definition": "Herbal paste applied externally.",
+        "example": "Sandalwood paste."
+      },
+      {
+        "term": "Ointments",
+        "definition": "Semi-solid formulations with herbs.",
+        "example": "Aloe vera ointment."
+      },
+      {
+        "term": "Powdered Capsules",
+        "definition": "Encapsulation of fine herbal powder.",
+        "example": "Ashwagandha capsules."
+      },
+      {
+        "term": "Lozenges",
+        "definition": "Herbal composition for sore throat.",
+        "example": "Mulethi lozenges."
+      },
+      {
+        "term": "Herbal Tea",
+        "definition": "Infusion of herbs for health drink.",
+        "example": "Green tea with tulsi."
+      },
+      {
+        "term": "Herbal Cosmetics",
+        "definition": "Natural skin/hair preparations.",
+        "example": "Herbal kajal."
+      },
+      {
+        "term": "Face Pack",
+        "definition": "Herbal mixture for skin glow.",
+        "example": "Multani mitti face pack."
+      },
+      {
+        "term": "Hair Oil",
+        "definition": "Medicated herbal oil for hair growth.",
+        "example": "Bhringraj taila."
+      },
+      {
+        "term": "Anti-dandruff Shampoo",
+        "definition": "Herbal hair wash for dandruff.",
+        "example": "Neem-based shampoo."
+      },
+      {
+        "term": "Herbal Deodorant",
+        "definition": "Natural aromatic preparation.",
+        "example": "Lemon + alum deodorant."
+      },
+      {
+        "term": "Herbal Eye Drops",
+        "definition": "Plant-based ocular drops.",
+        "example": "Triphala eye drops."
+      },
+      {
+        "term": "Herbal Remedy for Cold",
+        "definition": "Tulsi leaves tea reduces symptoms.",
+        "example": "Ocimum sanctum decoction."
+      },
+      {
+        "term": "Remedy for Cough",
+        "definition": "Honey + ginger juice is effective.",
+        "example": "Zingiber officinale syrup."
+      },
+      {
+        "term": "Herbal Antipyretic",
+        "definition": "Fever reducing herbs.",
+        "example": "Andrographis paniculata (Kalmegh)."
+      },
+      {
+        "term": "Remedy for Fever",
+        "definition": "Decoction of neem leaves reduces fever.",
+        "example": "Azadirachta indica decoction."
+      },
+      {
+        "term": "Immunobooster for Fever",
+        "definition": "Giloy helps improve resistance.",
+        "example": "Tinospora cordifolia."
+      },
+      {
+        "term": "Herbal Laxative",
+        "definition": "Promotes bowel movement.",
+        "example": "Senna leaves."
+      },
+      {
+        "term": "Mild Constipation Remedy",
+        "definition": "Isabgol provides relief.",
+        "example": "Plantago ovata husk."
+      },
+      {
+        "term": "Severe Constipation Treatment",
+        "definition": "Castor oil acts as purgative.",
+        "example": "Ricinus communis."
+      },
+      {
+        "term": "Digestive Helper",
+        "definition": "Ginger aids digestion and reduces bloating.",
+        "example": "Zingiber officinale."
+      },
+      {
+        "term": "Anti-cold Steam Inhalation",
+        "definition": "Eucalyptus oil vapors reduce congestion.",
+        "example": "Eucalyptus globulus."
+      },
+      {
+        "term": "Nasal Congestion Relief",
+        "definition": "Ajwain seeds inhalation is effective.",
+        "example": "Trachyspermum ammi."
+      },
+      {
+        "term": "Headache with Cold Remedy",
+        "definition": "Clove oil rubbing.",
+        "example": "Syzygium aromaticum."
+      },
+      {
+        "term": "Soothing Throat Remedy",
+        "definition": "Mulethi (licorice) acts as expectorant.",
+        "example": "Glycyrrhiza glabra."
+      },
+      {
+        "term": "Herbal Antibiotic",
+        "definition": "Turmeric helps fight infections.",
+        "example": "Curcuma longa."
+      },
+      {
+        "term": "Coolant Syrup for Fever",
+        "definition": "Coriander-water preparation.",
+        "example": "Coriandrum sativum extract."
+      },
+      {
+        "term": "Immunity Tonic",
+        "definition": "Amla juice for preventing frequent cold.",
+        "example": "Emblica officinalis."
+      },
+      {
+        "term": "Herbal Anti-inflammatory",
+        "definition": "Aloe vera juice reduces fever inflammation.",
+        "example": "Aloe barbadensis."
+      },
+      {
+        "term": "Carminative Remedy",
+        "definition": "Fennel seeds relieve indigestion.",
+        "example": "Foeniculum vulgare."
+      },
+      {
+        "term": "Anti-flatulent",
+        "definition": "Ajwain seeds prevent gas.",
+        "example": "Trachyspermum ammi."
+      },
+      {
+        "term": "Herbal Antihistamine",
+        "definition": "Basil leaves reduce allergic cold.",
+        "example": "Ocimum basilicum."
+      },
+      {
+        "term": "Herbal Expectorant",
+        "definition": "Vasaka clears mucus from chest.",
+        "example": "Adhatoda vasica."
+      },
+      {
+        "term": "Remedy for Phlegm",
+        "definition": "Black pepper improves expectoration.",
+        "example": "Piper nigrum."
+      },
+      {
+        "term": "Herbal Warm Tonic",
+        "definition": "Cinnamon decoction reliefs cold.",
+        "example": "Cinnamomum zeylanicum."
+      },
+      {
+        "term": "Cooling Remedy for Fever",
+        "definition": "Sandalwood paste on forehead reduces temperature.",
+        "example": "Santalum album."
+      },
+      {
+        "term": "Herbal Digestive Tonic",
+        "definition": "Triphala regulates bowel system.",
+        "example": "Combination of three myrobalans."
+      },
+      {
+        "term": "Herbal Hair Dye",
+        "definition": "Vegetable-based coloring for hair.",
+        "example": "Henna leaves powder."
+      },
+      {
+        "term": "Herbal Conditioner",
+        "definition": "Natural softening agent for hair.",
+        "example": "Aloe vera gel conditioner."
+      },
+      {
+        "term": "Herbal Soap",
+        "definition": "Soap infused with herbs.",
+        "example": "Neem soap for skin diseases."
+      },
+      {
+        "term": "Herbal Hand Sanitizer",
+        "definition": "Antimicrobial herbal alcohol solution.",
+        "example": "Aloe vera + tulsi sanitizer."
+      },
+      {
+        "term": "Herbal Antiseptic Cream",
+        "definition": "Natural wound-healing application.",
+        "example": "Turmeric cream."
+      },
+      {
+        "term": "Herbal Lip Balm",
+        "definition": "Plant-based lip ointment.",
+        "example": "Beeswax + rose oil balm."
+      },
+      {
+        "term": "Herbal Massage Oil",
+        "definition": "Oil with medicinal properties for pain.",
+        "example": "Sesame oil with camphor."
+      },
+      {
+        "term": "Pain Relief Balm",
+        "definition": "Ointment with counter-irritant effect.",
+        "example": "Eucalyptus and menthol balm."
+      },
+      {
+        "term": "Herbal Mosquito Repellent",
+        "definition": "Plant-based insect repellent.",
+        "example": "Citronella oil."
+      },
+      {
+        "term": "Herbal Talcum Powder",
+        "definition": "Cooling herbal body powder.",
+        "example": "Sandalwood powder."
+      },
+      {
+        "term": "Herbal Face Serum",
+        "definition": "Liquid extract for skin nourishment.",
+        "example": "Kumkumadi tailam."
+      },
+      {
+        "term": "Herbal Sunscreen",
+        "definition": "Sun protection with plant base.",
+        "example": "Aloe vera + zinc lotion."
+      },
+      {
+        "term": "Herbal Fairness Cream",
+        "definition": "Skin brightening herbal blend.",
+        "example": "Licorice cream."
+      },
+      {
+        "term": "Herbal Anti-aging Cream",
+        "definition": "Slows skin aging with antioxidants.",
+        "example": "Amla face cream."
+      },
+      {
+        "term": "Herbal Mouthwash",
+        "definition": "Plant extract for oral hygiene.",
+        "example": "Clove + peppermint oil wash."
+      },
+      {
+        "term": "Herbal Lozenge",
+        "definition": "Herbal throat soothing tablet.",
+        "example": "Ginger + honey lozenge."
+      },
+      {
+        "term": "Herbal Energy Drink",
+        "definition": "Rejuvenating herbal tonic.",
+        "example": "Ashwagandha milk."
+      },
+      {
+        "term": "Herbal Protein Powder",
+        "definition": "Nutritional supplement.",
+        "example": "Spirulina powder."
+      },
+      {
+        "term": "Herbal Capsule",
+        "definition": "Encapsulated herbal dry extracts.",
+        "example": "Shatavari capsules."
+      },
+      {
+        "term": "Herbal Tonic",
+        "definition": "Restorative plant-based preparation.",
+        "example": "Arjuna cardiac tonic."
+      },
+      {
+        "term": "Herbal Cough Drops",
+        "definition": "Lozenges for cough relief.",
+        "example": "Tulsi + mulethi drops."
+      },
+      {
+        "term": "Herbal Ointment for Burns",
+        "definition": "Healing and soothing.",
+        "example": "Aloe vera burning ointment."
+      },
+      {
+        "term": "Herbal Wound Powder",
+        "definition": "Antiseptic herbal dusting powder.",
+        "example": "Turmeric powder."
+      },
+      {
+        "term": "Herbal Perfume",
+        "definition": "Aromatic distilled oils.",
+        "example": "Rose attar."
+      },
+      {
+        "term": "Herbal Kajal",
+        "definition": "Traditional eye cosmetic.",
+        "example": "Kajal from castor oil soot."
+      },
+      {
+        "term": "Herbal Remedy for Migraine",
+        "definition": "Feverfew leaf reduces migraine.",
+        "example": "Tanacetum parthenium."
+      },
+      {
+        "term": "Remedy for Acidity",
+        "definition": "Licorice root relieves acidity.",
+        "example": "Glycyrrhiza glabra extract."
+      },
+      {
+        "term": "Indigestion Remedy",
+        "definition": "Cardamom helps reduce indigestion.",
+        "example": "Elettaria cardamomum."
+      },
+      {
+        "term": "Diarrhea Remedy",
+        "definition": "Nutmeg acts as anti-diarrheal.",
+        "example": "Myristica fragrans."
+      },
+      {
+        "term": "Vomiting Control",
+        "definition": "Ginger reduces nausea.",
+        "example": "Zingiber officinale."
+      },
+      {
+        "term": "Herbal Mouth Ulcer Remedy",
+        "definition": "Triphala gargle heals ulcers.",
+        "example": "Emblica + Terminalia extract."
+      },
+      {
+        "term": "Toothache Relief",
+        "definition": "Clove oil relieves dental pain.",
+        "example": "Syzygium aromaticum."
+      },
+      {
+        "term": "Bad Breath Remedy",
+        "definition": "Chewing fennel seeds freshens mouth.",
+        "example": "Foeniculum vulgare."
+      },
+      {
+        "term": "Skin Allergy Control",
+        "definition": "Neem paste reduces itching.",
+        "example": "Azadirachta indica."
+      },
+      {
+        "term": "Sunburn Relief",
+        "definition": "Aloe vera gel soothes burns.",
+        "example": "Aloe barbadensis."
+      },
+      {
+        "term": "Acne Treatment",
+        "definition": "Tulsi extract kills acne-causing bacteria.",
+        "example": "Ocimum sanctum."
+      },
+      {
+        "term": "Eczema Remedy",
+        "definition": "Turmeric paste reduces inflammation.",
+        "example": "Curcuma longa."
+      },
+      {
+        "term": "Psoriasis Management",
+        "definition": "Neem oil reduces skin lesions.",
+        "example": "Azadirachta indica oil."
+      },
+      {
+        "term": "Hair Loss Remedy",
+        "definition": "Bhringraj promotes hair growth.",
+        "example": "Eclipta alba."
+      },
+      {
+        "term": "Dandruff Cure",
+        "definition": "Lemon rinse treats dandruff.",
+        "example": "Citrus limon."
+      },
+      {
+        "term": "Joint Pain Relief",
+        "definition": "Ashwagandha reduces arthritis pain.",
+        "example": "Withania somnifera."
+      },
+      {
+        "term": "Muscle Cramps Remedy",
+        "definition": "Fenugreek paste relieves stiffness.",
+        "example": "Trigonella foenum-graecum."
+      },
+      {
+        "term": "Diabetes Support",
+        "definition": "Bitter gourd lowers blood sugar.",
+        "example": "Momordica charantia."
+      },
+      {
+        "term": "Hypertension Control",
+        "definition": "Garlic helps reduce BP.",
+        "example": "Allium sativum."
+      },
+      {
+        "term": "Cholesterol Reduction",
+        "definition": "Fenugreek seeds control cholesterol.",
+        "example": "Trigonella foenum-graecum."
+      },
+      {
+        "term": "Memory Booster",
+        "definition": "Brahmi enhances memory.",
+        "example": "Bacopa monnieri."
+      },
+      {
+        "term": "Anxiety Relief",
+        "definition": "Jatamansi calms the mind.",
+        "example": "Nardostachys jatamansi."
+      },
+      {
+        "term": "Insomnia Cure",
+        "definition": "Valerian root induces sleep.",
+        "example": "Valeriana officinalis."
+      },
+      {
+        "term": "Eye Health Tonic",
+        "definition": "Triphala powder good for eyesight.",
+        "example": "Emblica officinalis, Terminalia species."
+      },
+      {
+        "term": "Liver Tonic",
+        "definition": "Kutki herb supports liver detox.",
+        "example": "Picrorhiza kurroa."
+      }
+    ]
+  }
+}
