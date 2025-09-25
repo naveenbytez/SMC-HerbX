@@ -124,7 +124,8 @@
   align-items: center;
   background: var(--color-success);
   color: var(--color-btn-primary-text);
-  padding: var(--space-12) var(--space-16);
+  padding: var(--space-10) var(--space-10);
+  padding-top: var(--space-8);
   position: sticky;
   top: 0;
   z-index: 200;
@@ -155,6 +156,7 @@
 
 /* Mobile nav */
 .mobile-nav {
+  padding: 20px;
   margin-top: 5px;
   display: flex;
   gap: var(--space-16);
@@ -175,7 +177,7 @@
     flex-direction: column;
     width: 180px;
     display: none;
-    padding: var(--space-12);
+    padding-top: var(--space-12);
     border-radius: var(--radius-md);
     box-shadow: var(--shadow-md);
   }
