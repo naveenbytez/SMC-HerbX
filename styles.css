@@ -154,16 +154,19 @@
 
 /* Mobile nav */
 .mobile-nav {
+  margin-top: 5px;
   display: flex;
   gap: var(--space-16);
 }
 
 @media (max-width: 768px) {
   .hamburger {
+    margin-top: 5px;
     display: flex;
   }
 
   .mobile-nav {
+    margin: 5px;
     position: absolute;
     top: 60px;
     right: var(--space-16);
