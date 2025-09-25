@@ -7,6 +7,20 @@
   <title>SMC-HerbX Mobile Dictionary</title>
 </head>
 <body>
+  <header class="app-header">
+    <div class="logo">SMC-HerbX</div>
+    <div class="hamburger" id="hamburger">
+      <div class="bar"></div>
+      <div class="bar"></div>
+      <div class="bar"></div>
+    </div>
+    <nav class="mobile-nav" id="mobile-nav">
+      <a href="#" onclick="app.showWelcome()">Home</a>
+      <a href="#" onclick="app.showAbout()">About</a>
+      <a href="#" onclick="app.showContact()">Contact</a>
+    </nav>
+  </header>
+  
   <main id="app" class="container">
     <script src="herbx_data.js"></script>
    

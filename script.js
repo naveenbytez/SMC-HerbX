@@ -84,19 +84,17 @@ class HerbXApp {
   renderCollegeHeader() {
     return `
     <div class="college-header">
-      <div class="college-header-content">
-        <div class="college-header-with-logos" style="display: flex; align-items: center; justify-content: center; gap: var(--space-20);">
-          <img src="img/clg_logo.jpg" alt="College Logo" style="width: 60px; height: 60px; object-fit: contain;">
-          <div style="text-align: center;">
-            <h1>St. Mary's College</h1>
-            <h3>(Autonomous)</h3><br>
-            <h4>Department of Botany </h4>
-            <p>Thoothukudi -620001</p>
-          </div>
-          <img src="img/dept_logo.jpg" alt="Department Logo" style="width: 60px; height: 60px; object-fit: contain;">
-        </div>
+    <div class="college-header-content">
+      <img src="img/clg_logo.jpg" alt="St. Mary's College Logo" class="college-logo" />
+      <div class="college-text-container">
+        <h1 class="college-name">St. Mary's College</h1>
+        <h3 class="college-subname">(Autonomous)</h3>
+        <h4 class="department-name">Department of Botany</h4>
+        <p class="college-location">Thoothukudi -620001</p>
       </div>
+      <img src="img/dept_logo.jpg" alt="Department of Botany Logo" class="college-logo" />
     </div>
+  </div>
     `;
   }
 
@@ -172,7 +170,7 @@ class HerbXApp {
       ${this.renderCollegeHeader()}
 
       <div class="unit-header">
-        <button class="back-btn" id="back-button">← Back</button>
+        <button class="back-btn" id="back-button">Back</button>
         <h2 class="unit-header-title">${unit.title}</h2>
       </div>
 
@@ -228,7 +226,7 @@ class HerbXApp {
           </div>
         </div>
         <div style="text-align: center; margin-top: var(--space-24);">
-          <button class="back-btn" onclick="app.showWelcome()">← Back to Home</button>
+          <button class="back-btn" onclick="app.showWelcome()">Back to Home</button>
         </div>
       </div>
     `;
@@ -318,6 +316,23 @@ class HerbXApp {
     }
     return metaHtml ? `<div class="entry-meta">${metaHtml}</div>` : '';
   }
+  showAbout() {
+    this.currentView = 'about';
+    this.app.innerHTML = `
+      ${this.renderCollegeHeader()}
+      <div class="about-container">
+        <h2 style="color: var(--color-success); text-align: center; margin-bottom: var(--space-16);">About SMC-HerbX</h2>
+        <p style="margin-bottom: var(--space-12);">
+          SMC-HerbX Mobile Dictionary is a pocket guide for students, teachers, and herbal enthusiasts.
+          Covers herbal drug names, uses, examples, and parts used according to the 2024 Botany syllabus.
+        </p>
+        <div style="text-align: center; margin-top: var(--space-24);">
+          <button class="back-btn" onclick="app.showWelcome()">Back to Home</button>
+        </div>
+      </div>
+    `;
+  }
+  
 
   performGlobalSearch() {
     if (!this.unitsData) return;
@@ -413,4 +428,12 @@ class HerbXApp {
 let app;
 document.addEventListener('DOMContentLoaded', () => {
   app = new HerbXApp();
+});
+document.addEventListener('DOMContentLoaded', () => {
+  const hamburger = document.getElementById('hamburger');
+  const mobileNav = document.getElementById('mobile-nav');
+
+  hamburger.addEventListener('click', () => {
+    mobileNav.classList.toggle('show');
+  });
 });
